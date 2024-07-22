@@ -1,0 +1,26 @@
+.container {
+    text-align: -webkit-center;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.card {
+    min-width: 300px;
+    max-width: 400px;
+}
+
+.input-group {
+    max-width: 1200px !important;
+    margin-bottom: 25px !important;
+    margin-top: 15px !important;
+}
+
+.input-group-text {
+    border-radius: 7px 0 0 7px !important;
+}
+
+#searchInput {
+    border-radius: 0 7px 7px 0 !important;
+}
